@@ -1,4 +1,5 @@
-*Running Fest UNESA*
+**Running Fest UNESA**
+
 📖 Tentang Proyek
 Website ini dirancang sebagai pusat informasi permanen untuk menumbuhkan gaya hidup sehat di lingkungan kampus UNESA. Bukan hanya sekadar ajang lomba tahunan, website ini mendukung keberlanjutan komunitas melalui edukasi rencana latihan (training plans).
 
